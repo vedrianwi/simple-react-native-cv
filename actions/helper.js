@@ -1,0 +1,2 @@
+//LOGIN ACTION
+const LOGIN = 'LOGIN'
